@@ -1,0 +1,53 @@
+$date
+	Wed Jun  3 14:54:03 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_t_flipflop $end
+$var wire 1 ! u $end
+$var wire 1 " q $end
+$var reg 1 # clk $end
+$var reg 1 $ t $end
+$scope module dut $end
+$var wire 1 # clk $end
+$var wire 1 $ t $end
+$var reg 1 " q $end
+$var reg 1 ! u $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+1#
+0"
+1!
+$end
+#5
+0#
+#10
+1"
+1#
+1$
+#15
+0#
+#20
+0!
+1#
+0$
+#25
+0#
+#30
+0"
+1#
+1$
+#35
+0#
+#40
+1!
+1"
+1#
